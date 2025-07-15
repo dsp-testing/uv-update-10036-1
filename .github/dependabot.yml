@@ -6,4 +6,3 @@ updates:
     versioning-strategy: "increase"
     schedule:
       interval: "daily"
-      
