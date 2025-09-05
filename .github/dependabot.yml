@@ -6,4 +6,7 @@ updates:
     versioning-strategy: "increase"
     schedule:
       interval: "daily"
-
+    groups:
+      python-dependencies:
+        patterns:
+        - "*"
